@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/james/Documents/projects/youtube/manim-animations/manim-tutorial/media/videos/neural_networks/480p15/partial_movie_files/NeuralNet/3163782288_1489724507_1353190092.mp4'
+file 'file:/home/james/Documents/projects/youtube/manim-animations/manim-tutorial/media/videos/neural_networks/480p15/partial_movie_files/NeuralNet/2201830969_362642359_3223414351.mp4'
+file 'file:/home/james/Documents/projects/youtube/manim-animations/manim-tutorial/media/videos/neural_networks/480p15/partial_movie_files/NeuralNet/2201830969_398514950_1468170851.mp4'
+file 'file:/home/james/Documents/projects/youtube/manim-animations/manim-tutorial/media/videos/neural_networks/480p15/partial_movie_files/NeuralNet/2201830969_3437724864_1274648988.mp4'
+file 'file:/home/james/Documents/projects/youtube/manim-animations/manim-tutorial/media/videos/neural_networks/480p15/partial_movie_files/NeuralNet/2201830969_3955665553_1158390013.mp4'
+file 'file:/home/james/Documents/projects/youtube/manim-animations/manim-tutorial/media/videos/neural_networks/480p15/partial_movie_files/NeuralNet/2201830969_3428009320_848573819.mp4'
+file 'file:/home/james/Documents/projects/youtube/manim-animations/manim-tutorial/media/videos/neural_networks/480p15/partial_movie_files/NeuralNet/2201830969_398514950_1081357805.mp4'

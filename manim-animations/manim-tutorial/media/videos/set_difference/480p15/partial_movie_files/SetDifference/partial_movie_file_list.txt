@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/james/Documents/projects/youtube/manim-animations/manim-tutorial/media/videos/set_difference/480p15/partial_movie_files/SetDifference/3163782288_3908900396_3100867635.mp4'
