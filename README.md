@@ -16,7 +16,9 @@ Feel free to hop on our Discord Server [(Pooky Coders)](https://discord.gg/4Kw3q
     - [Matplotlib](https://youtu.be/NHg0yNo0t6o)
 - Python Crash Course (video to come soon :)
 - [Pytorch Full Course](https://youtube.com/playlist?list=PLlvT0pELlo-y4cxnOZ066y1J0eTae6KH0)
-    - [Linear Regression in Pytorch](https://youtu.be/LydRg_-Axvs)
+    - [Linear Regression in Pytorch](https://youtu.be/LydRg_-Axvs) [Code](pytorch-full-course/pytorch-part1/main.py)
+    - [Solve XOR with Neural Networks in Pytorch]() [Code](pytorch-full-course/pytorch-part2/main.ipynb)
+    - 
 - [Scikit-Learn Full Course](https://youtu.be/87xKBQZJNk8) (The One Machine Learning Library ...)
 - [Deep Learning with Python and Keras](https://youtube.com/playlist?list=PLlvT0pELlo-yIPD-X_70P6n1JgGN0eXWT)
     - Final code available only (will try to update with code for each video instead)
